@@ -6,7 +6,7 @@ const brownie = {
   subtitle: 'Fudgy brownie + white chocolate zigzag',
   description: 'Our rich, extra fudgy brownie finished with a diagonal zigzag drizzle of creamy Goya white chocolate.',
   image: '/images/image copy 5.png', 
-  price: '\$24 / box',
+  price: '\₱100 / for 3pcs!',
 };
 
 function App() {
