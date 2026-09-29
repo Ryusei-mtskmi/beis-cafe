@@ -82,7 +82,7 @@ function App() {
             <h3>Ready for some crumbs?</h3>
             <p>Message us on Instagram <b>@beiscrumbs</b> to order your sweet treats!</p>
             <a 
-              href="https://instagram.com" 
+              href="https://www.instagram.com/beiscrumbs/" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="button button-pink"
