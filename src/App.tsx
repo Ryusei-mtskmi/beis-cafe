@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { ArrowRight, Heart, Instagram, Menu as MenuIcon, MessageCircle, Package, Sparkles, X } from 'lucide-react';
 
-// 💡 IMPORT IMAGES HERE: Vite will now bundle and map these paths perfectly on GitHub Pages
+// Gemini did not fix a thing ffs
 import logoImg from './assets/images/Brown_Cute_Illustrated_Brownie_Logo.png';
 import brownieImg from './assets/images/image copy 5.png';
 
@@ -9,7 +9,7 @@ const brownie = {
   name: 'Goya White Choco Drizzle',
   subtitle: 'Fudgy brownie + white chocolate zigzag',
   description: 'Our rich, extra fudgy brownie finished with a diagonal zigzag drizzle of creamy Goya white chocolate.',
-  image: brownieImg, // Use imported file bundle
+  image: brownieImg, // Uhhh Gemini???
   price: '₱100 / for 3pcs!',
 };
 
