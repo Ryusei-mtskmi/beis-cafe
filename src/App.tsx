@@ -74,5 +74,5 @@ function App() {
     </div>
   );
 }
-
+// Gemini fixed ts for me bro im too fuckin tired
 export default App;
